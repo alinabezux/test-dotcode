@@ -1,0 +1,15 @@
+.background {
+    overflow: hidden;
+}
+
+.reset-button {
+    font-size: large;
+    margin: 10px;
+}
+
+.delete-button {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    cursor: pointer;
+}
